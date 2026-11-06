@@ -2,6 +2,9 @@
 
 ResearchMind is an advanced, fully autonomous AI research pipeline built with **LangChain (LCEL)** and **Streamlit**. It uses a team of 4 specialized agents to search the web, scrape deep content, draft a structured report, and critique its own work—delivering a polished research document on any topic in seconds.
 
+<img width="1912" height="833" alt="image" src="https://github.com/user-attachments/assets/b582938b-beab-4cf6-927f-3917e3fc33bc" />
+
+
 ## 🚀 Live Demo
 Experience it live here: https://researchmind-multiagentai.streamlit.app/
 
